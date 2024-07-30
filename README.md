@@ -80,7 +80,7 @@
 
 
   ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20POPKID%20MD%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
 
 
 
