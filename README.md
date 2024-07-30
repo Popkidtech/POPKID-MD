@@ -32,7 +32,7 @@
 
 
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
+  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
