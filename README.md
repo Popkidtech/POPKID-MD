@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> ℙ𝕆ℙ𝕂𝕀𝔻 𝕄𝔻 </h1>
+ <h1 align="center"> ℙ𝕆ℙ𝕂𝕀𝔻 𝕄𝔻.𝕧4 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -19,10 +19,10 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  <a href="https://popkidbotnewsessions-e916ec3d02cd.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://popmdonsessions-663003477283.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
-  <a href="https://popkidbotnewsessions-e916ec3d02cd.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>/
+  <a href="https://popmdonsessions-663003477283.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>/
 
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## First fork my repository
