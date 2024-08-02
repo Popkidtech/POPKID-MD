@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "popkid-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,10 +17,10 @@
     "Zokou",
     "whatsapp",
     "whatsapp-bot",
-    "Fedora",
-    "FaouzKK"
+    "Beltah",
+    "Popkid"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "Beltah Tech 254",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
@@ -68,6 +68,6 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "github:FaouzKK/node-ytdl-core"
+    "ytdl-core": "npm:@distube/ytdl-core"
   }
 }
