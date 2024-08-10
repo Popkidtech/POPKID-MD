@@ -27,7 +27,7 @@
   *𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏* 
 
 
-<a href="https://github.com/Popkidtech/IANS-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/Popkidtech/POPKID-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 **star✨ my repo if you like this bot🤖**
 
@@ -59,7 +59,7 @@
 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/Popkidtech/IANS-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/Popkidtech/POPKID-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
